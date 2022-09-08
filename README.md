@@ -4,4 +4,4 @@ Repositorio para nuestra charla "Quemando los puentes: nuevas y costosas amenaza
 ## Presentations
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1|07-SEP-2022|DragonJAR Colombia| - | https://docs.google.com/presentation/d/1nHIRSSfhgII2xPIbaUaNfffYV1JA9-7mnBUf0hi7fEI/edit#slide=id.g5dc4e38d75_0_89 |
+|1|07-SEP-2022|DragonJAR Colombia| https://youtu.be/SzW6E6d8KOs?t=19635 | https://docs.google.com/presentation/d/1nHIRSSfhgII2xPIbaUaNfffYV1JA9-7mnBUf0hi7fEI/edit#slide=id.g5dc4e38d75_0_89 |
